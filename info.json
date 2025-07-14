@@ -1,1 +1,11 @@
-blockchains/smartchain/assets/0x749Ad98a17c89F65249C8e4d2D4D2491826a9aeB.json
+{
+  "name": "Saja Boys Coin",
+  "symbol": "SBC",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "사자 보이즈 커뮤니티 토큰입니다.",
+  "website": "https://sajaboys.com",
+  "explorer": "https://bscscan.com/token/0x749Ad98a17c89F65249C8e4d2D4D2491826a9aeB",
+  "status": "active",
+  "id": "0x749Ad98a17c89F65249C8e4d2D4D2491826a9aeB"
+}
